@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WEATHER RELATED STRINGS [!need override!] -->
+    <string name="weather_feels_like"/>
+    <string name="weather_uv"/>
+    <string name="weather_sunrise">Sonnenaufgang</string>
+    <string name="weather_sunset">Sonnenuntergang</string>
+    <string name="weather_badeampel">Badeampel</string>
+    <string name="weather_wasserspiel">Wasserspiel</string>
+    <string name="weather_rain"/>
+    <string name="weather_humidity"/>
+    <string name="weather_pressure"/>
+    <string name="weather_wind_speed"/>
+    <string name="weather_wind_direction"/>
+    <string name="weather_title">Wetter</string>
+</resources>
